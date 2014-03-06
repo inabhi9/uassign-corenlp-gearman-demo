@@ -20,8 +20,8 @@ This will install job server and start it up.
 
 #### Application:
 
-Download latest binary: [corenlp-gearman-demo.jar][1]
-Download application dependency: [corenlp-gearman-demo_lib.zip][2].
+Download latest binary: [corenlp-gearman-demo.jar][1]  
+Download application dependency: [corenlp-gearman-demo_lib.zip][2].  
 Stanford CoreNLP NER models are not included in the dependecy package. You can grab them from following sources and copy to same dependency directory i.e. `corenlp-gearman-demo_lib`
 
 * [stanford-ner-models-1.3.5.jar][3]
